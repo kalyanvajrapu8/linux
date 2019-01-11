@@ -1,4 +1,5 @@
 this is regrading git
 this is second test to how the chages is recording
 this is from the windows
-
+this is from my home
+to remote the repositry git remote add -f -t master -m master origin
